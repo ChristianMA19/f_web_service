@@ -30,7 +30,7 @@ dependencies:
   flutter:
     sdk: flutter
   get: ^4.6.5
-  http: ^0.13.4
+  http: ^0.13.3
   loggy: ^2.0.1
   connectivity: ^3.0.6
 
